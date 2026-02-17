@@ -27,7 +27,7 @@
 ## Support
 
 Join our **support server** for help, feedback, or updates:  
-[**PingFPS Support Discord**](https://discord.gg/f29AHh2Dtk)  
+[**General Support Discord**](https://discord.gg/f29AHh2Dtk)  
 
 ---
 
