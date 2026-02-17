@@ -1,0 +1,8 @@
+## Interface: 120001
+## Title: PingFPS
+## Notes: Shows Ping and MS (made by Rathio)
+## Author: Rathio
+## Version: 1.1.0
+## SavedVariables: PingFPSDB
+
+PingFPS.lua
