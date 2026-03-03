@@ -1,6 +1,7 @@
 ## Interface: 120000
 ## Title: PingFPS
 ## Author: Rathio
-## Version: 1.1.0
+## Version: 1.2.0
+## X-Wago-ID: 6XevjKp
 ## SavedVariablesPerCharacter: PingFPSDB
 PingFPS.lua
