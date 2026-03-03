@@ -1,15 +1,57 @@
-PingFPS v1.2.0
-Lightweight FPS & Ping display for WoW.
+# PingFPS
 
-Usage:
-  - /pfs : Toggle settings menu.
-  - Shift + Drag : Move the frame.
+PingFPS is a lightweight World of Warcraft Retail addon that displays your **network ping (MS)** and **FPS** in real-time. The display is fully movable, color-coded based on performance, and includes a simple options panel.
 
-v1.2.0 Changes:
-  - Added: Custom settings overlay (replaces Blizzard menu).
-  - Added: Dynamic frame resizing (hugs your text/font).
-  - Fixed: Per-character saving, "nil" value crashes, 
-    and general performance.
+## Features
 
-v1.1.0:
-  - Initial release.
+- Displays **Ping (MS)** and **FPS** in a small, movable frame
+- **Shift + Left Click** to move the frame
+- Frame position is **saved** between sessions
+- **Color-coded performance** (green/yellow/red) or plain white
+
+
+
+
+
+# PingFPS
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+**PingFPS** is a lightweight World of Warcraft Retail addon that displays your **network ping (MS)** and **FPS** in real-time. The frame is **movable**, **color-coded based on performance**, and includes a **simple options panel**.  
+
+---
+
+## Features
+
+- Real-time **Ping (MS)** and **FPS** display
+- **Shift + Left Click** to move the frame
+- Frame position and lock state are saved
+- Color-coded performance (green/yellow/red)
+
+ 
+
+---
+
+## Usage
+
+- Move the frame: **Shift + Left Click**  
+- Lock/unlock frame and toggle color: Options panel  
+
+---
+
+## Support
+
+Join our **support server** for help, feedback, or updates:  
+[**General Support Discord**](https://discord.gg/f29AHh2Dtk)  
+
+---
+
+## Author
+
+**Rathio12**
+
+---
+
+## License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
