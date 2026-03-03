@@ -1,13 +1,15 @@
-# PingFPS
+PingFPS v1.2.0
+Lightweight FPS & Ping display for WoW.
 
-PingFPS is a lightweight World of Warcraft Retail addon that displays your **network ping (MS)** and **FPS** in real-time. The display is fully movable, color-coded based on performance, and includes a simple options panel.
+Usage:
+  - /pfs : Toggle settings menu.
+  - Shift + Drag : Move the frame.
 
-## Features
+v1.2.0 Changes:
+  - Added: Custom settings overlay (replaces Blizzard menu).
+  - Added: Dynamic frame resizing (hugs your text/font).
+  - Fixed: Per-character saving, "nil" value crashes, 
+    and general performance.
 
-- Displays **Ping (MS)** and **FPS** in a small, movable frame
-- **Shift + Left Click** to move the frame
-- Frame position is **saved** between sessions
-- **Color-coded performance** (green/yellow/red) or plain white
-
-
-
+v1.1.0:
+  - Initial release.
